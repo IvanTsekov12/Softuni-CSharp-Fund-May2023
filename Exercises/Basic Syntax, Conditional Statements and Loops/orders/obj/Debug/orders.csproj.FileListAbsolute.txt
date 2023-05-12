@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\bin\Debug\orders.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\bin\Debug\orders.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\bin\Debug\orders.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\obj\Debug\orders.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\obj\Debug\orders.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\obj\Debug\orders.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\obj\Debug\orders.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\orders\obj\Debug\orders.pdb

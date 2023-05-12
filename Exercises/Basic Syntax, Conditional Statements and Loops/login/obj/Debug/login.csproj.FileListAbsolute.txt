@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\bin\Debug\login.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\bin\Debug\login.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\bin\Debug\login.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\obj\Debug\login.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\login\obj\Debug\login.pdb

@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\bin\Debug\vacation.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\bin\Debug\vacation.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\bin\Debug\vacation.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\obj\Debug\vacation.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\obj\Debug\vacation.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\obj\Debug\vacation.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\obj\Debug\vacation.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\vacation\obj\Debug\vacation.pdb

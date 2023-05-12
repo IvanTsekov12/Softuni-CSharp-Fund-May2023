@@ -71,7 +71,18 @@ namespace vacation
             }
             else if (groupType == "Business" && peopleCount >= 100)
             {
-                total -= 10 * peopleCount;
+                if (dayOfWeek == "Friday")
+                {
+                    total -= (10 * 10.9);
+                }
+                else if (dayOfWeek == "Saturday")
+                {
+                    total -= (10 * 15.6);
+                }
+                else if (dayOfWeek == "Sunday")
+                {
+                    total -= (10 * 16);
+                }
             }
             else if (groupType == "Regular" && (peopleCount >= 10 && peopleCount <= 20))
             {

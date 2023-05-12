@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\bin\Debug\strongNumber.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\bin\Debug\strongNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\bin\Debug\strongNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\obj\Debug\strongNumber.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\obj\Debug\strongNumber.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\obj\Debug\strongNumber.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\obj\Debug\strongNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\strongNumber\obj\Debug\strongNumber.pdb

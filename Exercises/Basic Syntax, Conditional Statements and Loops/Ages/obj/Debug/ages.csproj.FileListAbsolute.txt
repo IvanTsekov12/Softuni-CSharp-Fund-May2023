@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\bin\Debug\Ages.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\bin\Debug\Ages.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\bin\Debug\Ages.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\obj\Debug\ages.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\obj\Debug\ages.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\obj\Debug\ages.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\obj\Debug\Ages.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Basic Syntax, Conditional Statements and Loops\Ages\obj\Debug\Ages.pdb
