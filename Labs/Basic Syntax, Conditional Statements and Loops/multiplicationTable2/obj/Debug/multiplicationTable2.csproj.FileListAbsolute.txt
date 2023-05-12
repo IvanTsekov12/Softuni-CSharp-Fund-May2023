@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\bin\Debug\multiplicationTable2.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\bin\Debug\multiplicationTable2.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\bin\Debug\multiplicationTable2.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\obj\Debug\multiplicationTable2.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\obj\Debug\multiplicationTable2.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\obj\Debug\multiplicationTable2.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\obj\Debug\multiplicationTable2.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\multiplicationTable2\obj\Debug\multiplicationTable2.pdb

@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\sumOfOddNumbers.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\sumOfOddNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\sumOfOddNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\sumOfOddNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\sumOfOddNumbers.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\sumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\sumOfOddNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\sumOfOddNumbers.pdb

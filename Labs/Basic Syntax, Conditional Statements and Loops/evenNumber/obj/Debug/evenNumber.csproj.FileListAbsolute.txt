@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\bin\Debug\evenNumber.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\bin\Debug\evenNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\bin\Debug\evenNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\obj\Debug\evenNumber.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\obj\Debug\evenNumber.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\obj\Debug\evenNumber.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\obj\Debug\evenNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\evenNumber\obj\Debug\evenNumber.pdb

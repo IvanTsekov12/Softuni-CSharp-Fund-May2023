@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\bin\Debug\backIn30Minutes.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\bin\Debug\backIn30Minutes.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\bin\Debug\backIn30Minutes.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\obj\Debug\backIn30Minutes.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\obj\Debug\backIn30Minutes.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\obj\Debug\backIn30Minutes.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\obj\Debug\backIn30Minutes.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\backIn30Minutes\obj\Debug\backIn30Minutes.pdb

@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\bin\Debug\studentInformation.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\bin\Debug\studentInformation.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\bin\Debug\studentInformation.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\obj\Debug\studentInformation.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\obj\Debug\studentInformation.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\obj\Debug\studentInformation.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\obj\Debug\studentInformation.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\studentInformation\obj\Debug\studentInformation.pdb

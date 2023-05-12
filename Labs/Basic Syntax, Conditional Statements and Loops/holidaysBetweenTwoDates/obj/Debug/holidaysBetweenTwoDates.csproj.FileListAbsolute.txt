@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\bin\Debug\holidaysBetweenTwoDates.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\bin\Debug\holidaysBetweenTwoDates.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\bin\Debug\holidaysBetweenTwoDates.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\obj\Debug\holidaysBetweenTwoDates.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\obj\Debug\holidaysBetweenTwoDates.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\obj\Debug\holidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\obj\Debug\holidaysBetweenTwoDates.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Basic Syntax, Conditional Statements and Loops\holidaysBetweenTwoDates\obj\Debug\holidaysBetweenTwoDates.pdb
