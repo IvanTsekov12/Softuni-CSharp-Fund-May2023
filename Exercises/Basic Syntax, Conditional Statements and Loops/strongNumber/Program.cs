@@ -12,7 +12,8 @@ namespace strongNumber
         {
             string stringNumber = Console.ReadLine();
             int number = int.Parse(stringNumber);
-            int sum = 1;
+            int tempSum = 1;
+            int sum = 0;
 
             for (int i = 0; i < stringNumber.Length; i++)
             {
@@ -20,8 +21,10 @@ namespace strongNumber
                 int digit = int.Parse(stringDigit);
                 for (int j = 1; j <= digit; j++)
                 {
-                    sum *= j;
+                    tempSum *= j;
                 }
+                sum += tempSum;
+                tempSum = 1;
             }
 
             if (sum == number)
