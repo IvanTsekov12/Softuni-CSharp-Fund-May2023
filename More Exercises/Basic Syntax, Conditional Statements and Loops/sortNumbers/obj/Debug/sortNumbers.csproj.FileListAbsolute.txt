@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\bin\Debug\sortNumbers.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\bin\Debug\sortNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\bin\Debug\sortNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\obj\Debug\sortNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\obj\Debug\sortNumbers.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\obj\Debug\sortNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\obj\Debug\sortNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\sortNumbers\obj\Debug\sortNumbers.pdb
