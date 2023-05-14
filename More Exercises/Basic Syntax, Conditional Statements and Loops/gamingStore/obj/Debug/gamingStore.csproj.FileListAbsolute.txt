@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\bin\Debug\gamingStore.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\bin\Debug\gamingStore.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\bin\Debug\gamingStore.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\obj\Debug\gamingStore.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\obj\Debug\gamingStore.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\obj\Debug\gamingStore.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\obj\Debug\gamingStore.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\gamingStore\obj\Debug\gamingStore.pdb

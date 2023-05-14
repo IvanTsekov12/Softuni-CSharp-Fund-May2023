@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\bin\Debug\englishLastDigit.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\bin\Debug\englishLastDigit.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\bin\Debug\englishLastDigit.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\obj\Debug\englishLastDigit.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\obj\Debug\englishLastDigit.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\obj\Debug\englishLastDigit.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\obj\Debug\englishLastDigit.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\englishLastDigit\obj\Debug\englishLastDigit.pdb

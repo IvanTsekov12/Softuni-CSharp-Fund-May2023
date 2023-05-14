@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\bin\Debug\reverseString.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\bin\Debug\reverseString.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\bin\Debug\reverseString.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\obj\Debug\reverseString.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\obj\Debug\reverseString.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\obj\Debug\reverseString.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\obj\Debug\reverseString.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Basic Syntax, Conditional Statements and Loops\reverseString\obj\Debug\reverseString.pdb

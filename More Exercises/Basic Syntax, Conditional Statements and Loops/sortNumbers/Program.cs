@@ -73,8 +73,6 @@ namespace sortNumbers
                 }
             }
 
-
-
             Console.WriteLine(biggestNum);
             Console.WriteLine(midNum);
             Console.WriteLine(lowestNum);
