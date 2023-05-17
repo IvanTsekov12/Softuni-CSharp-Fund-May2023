@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\bin\Debug\reversedChars.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\bin\Debug\reversedChars.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\bin\Debug\reversedChars.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\obj\Debug\reversedChars.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\obj\Debug\reversedChars.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\obj\Debug\reversedChars.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\obj\Debug\reversedChars.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\reversedChars\obj\Debug\reversedChars.pdb

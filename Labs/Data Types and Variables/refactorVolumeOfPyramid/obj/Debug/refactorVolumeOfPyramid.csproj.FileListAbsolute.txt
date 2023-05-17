@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.pdb

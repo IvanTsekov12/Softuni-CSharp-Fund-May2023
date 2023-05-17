@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\bin\Debug\specialNumbers.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\bin\Debug\specialNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\bin\Debug\specialNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\obj\Debug\specialNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\obj\Debug\specialNumbers.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\obj\Debug\specialNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\obj\Debug\specialNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\specialNumbers\obj\Debug\specialNumbers.pdb

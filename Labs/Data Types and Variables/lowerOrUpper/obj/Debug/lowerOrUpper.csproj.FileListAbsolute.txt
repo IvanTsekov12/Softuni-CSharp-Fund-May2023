@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\bin\Debug\lowerOrUpper.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\bin\Debug\lowerOrUpper.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\bin\Debug\lowerOrUpper.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\obj\Debug\lowerOrUpper.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\obj\Debug\lowerOrUpper.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\obj\Debug\lowerOrUpper.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\obj\Debug\lowerOrUpper.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\lowerOrUpper\obj\Debug\lowerOrUpper.pdb

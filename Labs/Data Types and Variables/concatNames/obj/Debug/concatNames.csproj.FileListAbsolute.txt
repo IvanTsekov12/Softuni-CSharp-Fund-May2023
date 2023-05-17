@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\bin\Debug\concatNames.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\bin\Debug\concatNames.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\bin\Debug\concatNames.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\obj\Debug\concatNames.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\obj\Debug\concatNames.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\obj\Debug\concatNames.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\obj\Debug\concatNames.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\concatNames\obj\Debug\concatNames.pdb

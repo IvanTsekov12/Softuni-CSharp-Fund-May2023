@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\bin\Debug\centuriesToMinutes.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\bin\Debug\centuriesToMinutes.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\bin\Debug\centuriesToMinutes.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\obj\Debug\centuriesToMinutes.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\obj\Debug\centuriesToMinutes.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\obj\Debug\centuriesToMinutes.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\obj\Debug\centuriesToMinutes.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\centuriesToMinutes\obj\Debug\centuriesToMinutes.pdb

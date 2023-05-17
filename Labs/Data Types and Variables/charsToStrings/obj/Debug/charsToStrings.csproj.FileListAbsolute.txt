@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\bin\Debug\charsToStrings.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\bin\Debug\charsToStrings.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\bin\Debug\charsToStrings.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\obj\Debug\charsToStrings.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\obj\Debug\charsToStrings.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\obj\Debug\charsToStrings.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\obj\Debug\charsToStrings.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\charsToStrings\obj\Debug\charsToStrings.pdb

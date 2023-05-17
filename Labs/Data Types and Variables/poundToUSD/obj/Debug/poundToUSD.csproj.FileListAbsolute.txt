@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\bin\Debug\poundToUSD.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\bin\Debug\poundToUSD.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\bin\Debug\poundToUSD.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\obj\Debug\poundToUSD.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\obj\Debug\poundToUSD.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\obj\Debug\poundToUSD.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\obj\Debug\poundToUSD.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\poundToUSD\obj\Debug\poundToUSD.pdb

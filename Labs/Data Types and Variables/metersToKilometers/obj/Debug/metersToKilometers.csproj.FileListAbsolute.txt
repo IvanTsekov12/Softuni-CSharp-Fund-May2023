@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\bin\Debug\metersToKilometers.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\bin\Debug\metersToKilometers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\bin\Debug\metersToKilometers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\obj\Debug\metersToKilometers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\obj\Debug\metersToKilometers.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\obj\Debug\metersToKilometers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\obj\Debug\metersToKilometers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\metersToKilometers\obj\Debug\metersToKilometers.pdb

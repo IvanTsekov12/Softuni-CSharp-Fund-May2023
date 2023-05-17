@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb
