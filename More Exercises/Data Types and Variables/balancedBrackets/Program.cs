@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace balancedBrackets
 {
@@ -12,11 +8,9 @@ namespace balancedBrackets
         {
             int lines = int.Parse(Console.ReadLine());
 
-            bool isBalanced = false;
-
             int openingCount = 0;
             int closingCount = 0;
-
+            bool isBalanced = false;
             for (int i = 0; i < lines; i++)
             {
                 string textOrBracket = Console.ReadLine();
@@ -28,25 +22,30 @@ namespace balancedBrackets
                 else if (textOrBracket == ")")
                 {
                     closingCount++;
+                    if (closingCount > openingCount)
+                    {
+                        isBalanced = false;
+                    }
+                    else if (closingCount == openingCount)
+                    {
+                        isBalanced = true;
+                    }
+                    else if (openingCount > closingCount && closingCount > 0)
+                    {
+                        isBalanced = false;
+                    }
+
                 }
 
-                if (closingCount > openingCount)
+                if (isBalanced)
                 {
-                    isBalanced = false;
-                }
-                else if(openingCount > closingCount)
-                {
-                    isBalanced = false;
-                }
-                else if (openingCount == closingCount)
-                {
-                    isBalanced = true;
                     openingCount = 0;
                     closingCount = 0;
+                    isBalanced = false;
                 }
             }
 
-            if (isBalanced)
+            if (openingCount == 0 && closingCount == 0)
             {
                 Console.WriteLine("BALANCED");
             }

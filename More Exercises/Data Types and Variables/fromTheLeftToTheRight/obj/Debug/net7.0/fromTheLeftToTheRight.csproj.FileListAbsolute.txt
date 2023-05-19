@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\bin\Debug\net7.0\fromTheLeftToTheRight.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\bin\Debug\net7.0\fromTheLeftToTheRight.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\bin\Debug\net7.0\fromTheLeftToTheRight.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\bin\Debug\net7.0\fromTheLeftToTheRight.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\bin\Debug\net7.0\fromTheLeftToTheRight.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\refint\fromTheLeftToTheRight.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\fromTheLeftToTheRight.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromTheLeftToTheRight\obj\Debug\net7.0\ref\fromTheLeftToTheRight.dll

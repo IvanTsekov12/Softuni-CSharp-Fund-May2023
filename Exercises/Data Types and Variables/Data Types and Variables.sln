@@ -3,19 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snowBalls", "snowBalls\snowBalls.csproj", "{49AD2ADC-BD23-4862-A8BB-32DE807A64A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "snowBalls", "snowBalls\snowBalls.csproj", "{49AD2ADC-BD23-4862-A8BB-32DE807A64A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiceMustFlow", "spiceMustFlow\spiceMustFlow.csproj", "{45C6CF55-BC0D-44D3-B1A8-563AA5817049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spiceMustFlow", "spiceMustFlow\spiceMustFlow.csproj", "{45C6CF55-BC0D-44D3-B1A8-563AA5817049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon", "pokemon\pokemon.csproj", "{69160B80-C0B8-42C2-9985-732C420AB4BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pokemon", "pokemon\pokemon.csproj", "{69160B80-C0B8-42C2-9985-732C420AB4BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumOfChars", "sumOfChars\sumOfChars.csproj", "{DB18F778-7188-433E-AC1C-AD0F22046E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sumOfChars", "sumOfChars\sumOfChars.csproj", "{DB18F778-7188-433E-AC1C-AD0F22046E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printPartOfASCIITable", "printPartOfASCIITable\printPartOfASCIITable.csproj", "{53AD4759-B081-4E1B-B529-00839D65F939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "printPartOfASCIITable", "printPartOfASCIITable\printPartOfASCIITable.csproj", "{53AD4759-B081-4E1B-B529-00839D65F939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beerKegs", "beerKegs\beerKegs.csproj", "{C0835544-6666-4A64-9C14-A95590AEB283}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "beerKegs", "beerKegs\beerKegs.csproj", "{C0835544-6666-4A64-9C14-A95590AEB283}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triplesOfLatinLetters", "triplesOfLatinLetters\triplesOfLatinLetters.csproj", "{056E4F74-9D7D-4E38-BB60-FA040F96BD00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triplesOfLatinLetters", "triplesOfLatinLetters\triplesOfLatinLetters.csproj", "{056E4F74-9D7D-4E38-BB60-FA040F96BD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integerOperations", "integerOperations\integerOperations.csproj", "{55A5445E-0533-4708-BE6F-F86CB828440F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumDigits", "sumDigits\sumDigits.csproj", "{2B150938-8E6C-4704-8E2D-696AD2496421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elevator", "elevator\elevator.csproj", "{E2C67DC0-B833-4916-8D3C-5375BD097D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waterOverflow", "waterOverflow\waterOverflow.csproj", "{69591854-C625-4DC1-9EAF-A4832780EA7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{056E4F74-9D7D-4E38-BB60-FA040F96BD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{056E4F74-9D7D-4E38-BB60-FA040F96BD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{056E4F74-9D7D-4E38-BB60-FA040F96BD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A5445E-0533-4708-BE6F-F86CB828440F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A5445E-0533-4708-BE6F-F86CB828440F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A5445E-0533-4708-BE6F-F86CB828440F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A5445E-0533-4708-BE6F-F86CB828440F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B150938-8E6C-4704-8E2D-696AD2496421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B150938-8E6C-4704-8E2D-696AD2496421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B150938-8E6C-4704-8E2D-696AD2496421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B150938-8E6C-4704-8E2D-696AD2496421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C67DC0-B833-4916-8D3C-5375BD097D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C67DC0-B833-4916-8D3C-5375BD097D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C67DC0-B833-4916-8D3C-5375BD097D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C67DC0-B833-4916-8D3C-5375BD097D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69591854-C625-4DC1-9EAF-A4832780EA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69591854-C625-4DC1-9EAF-A4832780EA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69591854-C625-4DC1-9EAF-A4832780EA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69591854-C625-4DC1-9EAF-A4832780EA7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\net7.0\balancedBrackets.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\net7.0\balancedBrackets.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\net7.0\balancedBrackets.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\net7.0\balancedBrackets.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\net7.0\balancedBrackets.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\refint\balancedBrackets.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\balancedBrackets.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\net7.0\ref\balancedBrackets.dll

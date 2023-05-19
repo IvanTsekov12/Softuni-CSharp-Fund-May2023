@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\bin\Debug\net7.0\elevator.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\bin\Debug\net7.0\elevator.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\bin\Debug\net7.0\elevator.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\bin\Debug\net7.0\elevator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\bin\Debug\net7.0\elevator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\refint\elevator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\elevator.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\elevator\obj\Debug\net7.0\ref\elevator.dll

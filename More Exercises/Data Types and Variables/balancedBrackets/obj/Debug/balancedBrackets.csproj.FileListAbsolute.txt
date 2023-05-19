@@ -1,8 +1,0 @@
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\balancedBrackets.exe.config
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\balancedBrackets.exe
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\bin\Debug\balancedBrackets.pdb
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\balancedBrackets.csproj.AssemblyReference.cache
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\balancedBrackets.csproj.SuggestedBindingRedirects.cache
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\balancedBrackets.csproj.CoreCompileInputs.cache
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\balancedBrackets.exe
-C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\balancedBrackets\obj\Debug\balancedBrackets.pdb

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\bin\Debug\net7.0\sumDigits.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\bin\Debug\net7.0\sumDigits.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\bin\Debug\net7.0\sumDigits.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\bin\Debug\net7.0\sumDigits.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\bin\Debug\net7.0\sumDigits.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\refint\sumDigits.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\sumDigits.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\sumDigits\obj\Debug\net7.0\ref\sumDigits.dll

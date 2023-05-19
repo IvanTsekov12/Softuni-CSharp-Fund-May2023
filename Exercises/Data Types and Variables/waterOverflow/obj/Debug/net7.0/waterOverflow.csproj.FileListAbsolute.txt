@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\bin\Debug\net7.0\waterOverflow.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\bin\Debug\net7.0\waterOverflow.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\bin\Debug\net7.0\waterOverflow.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\bin\Debug\net7.0\waterOverflow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\bin\Debug\net7.0\waterOverflow.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\refint\waterOverflow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\waterOverflow.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\waterOverflow\obj\Debug\net7.0\ref\waterOverflow.dll

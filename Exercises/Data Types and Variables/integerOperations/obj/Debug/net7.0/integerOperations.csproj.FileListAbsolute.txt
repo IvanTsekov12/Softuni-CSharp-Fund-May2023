@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\bin\Debug\net7.0\integerOperations.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\bin\Debug\net7.0\integerOperations.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\bin\Debug\net7.0\integerOperations.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\bin\Debug\net7.0\integerOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\bin\Debug\net7.0\integerOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\refint\integerOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\integerOperations.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\integerOperations\obj\Debug\net7.0\ref\integerOperations.dll
