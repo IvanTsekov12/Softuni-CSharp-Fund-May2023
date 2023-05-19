@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\bin\Debug\dataTypeFinder.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\bin\Debug\dataTypeFinder.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\bin\Debug\dataTypeFinder.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\obj\Debug\dataTypeFinder.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\obj\Debug\dataTypeFinder.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\obj\Debug\dataTypeFinder.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\obj\Debug\dataTypeFinder.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\dataTypeFinder\obj\Debug\dataTypeFinder.pdb

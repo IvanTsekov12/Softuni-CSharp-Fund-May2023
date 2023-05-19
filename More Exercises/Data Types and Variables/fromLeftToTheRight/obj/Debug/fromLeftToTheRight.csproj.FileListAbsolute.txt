@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\bin\Debug\fromLeftToTheRight.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\bin\Debug\fromLeftToTheRight.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\bin\Debug\fromLeftToTheRight.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\obj\Debug\fromLeftToTheRight.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\obj\Debug\fromLeftToTheRight.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\obj\Debug\fromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\obj\Debug\fromLeftToTheRight.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\fromLeftToTheRight\obj\Debug\fromLeftToTheRight.pdb
