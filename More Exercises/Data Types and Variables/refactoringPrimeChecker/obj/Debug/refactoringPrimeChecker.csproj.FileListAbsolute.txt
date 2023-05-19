@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\bin\Debug\refactoringPrimeChecker.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\bin\Debug\refactoringPrimeChecker.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\bin\Debug\refactoringPrimeChecker.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\obj\Debug\refactoringPrimeChecker.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\obj\Debug\refactoringPrimeChecker.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\obj\Debug\refactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\obj\Debug\refactoringPrimeChecker.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\refactoringPrimeChecker\obj\Debug\refactoringPrimeChecker.pdb

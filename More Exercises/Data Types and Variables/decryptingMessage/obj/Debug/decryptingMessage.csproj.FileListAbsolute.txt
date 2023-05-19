@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\bin\Debug\decryptingMessage.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\bin\Debug\decryptingMessage.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\bin\Debug\decryptingMessage.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\obj\Debug\decryptingMessage.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\obj\Debug\decryptingMessage.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\obj\Debug\decryptingMessage.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\obj\Debug\decryptingMessage.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\decryptingMessage\obj\Debug\decryptingMessage.pdb

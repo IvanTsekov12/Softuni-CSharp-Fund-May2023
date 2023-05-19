@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\bin\Debug\net7.0\snowBalls.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\bin\Debug\net7.0\snowBalls.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\bin\Debug\net7.0\snowBalls.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\bin\Debug\net7.0\snowBalls.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\bin\Debug\net7.0\snowBalls.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\refint\snowBalls.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\snowBalls.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\snowBalls\obj\Debug\net7.0\ref\snowBalls.dll

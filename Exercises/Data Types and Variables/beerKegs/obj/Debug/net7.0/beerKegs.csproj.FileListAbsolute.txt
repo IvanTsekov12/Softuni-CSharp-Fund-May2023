@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\bin\Debug\net7.0\beerKegs.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\bin\Debug\net7.0\beerKegs.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\bin\Debug\net7.0\beerKegs.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\bin\Debug\net7.0\beerKegs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\bin\Debug\net7.0\beerKegs.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\refint\beerKegs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\beerKegs.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\beerKegs\obj\Debug\net7.0\ref\beerKegs.dll

@@ -1,0 +1,8 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\bin\Debug\floatingEquality.exe.config
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\bin\Debug\floatingEquality.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\bin\Debug\floatingEquality.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\obj\Debug\floatingEquality.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\obj\Debug\floatingEquality.csproj.SuggestedBindingRedirects.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\obj\Debug\floatingEquality.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\obj\Debug\floatingEquality.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\More Exercises\Data Types and Variables\floatingEquality\obj\Debug\floatingEquality.pdb

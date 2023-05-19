@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\bin\Debug\net7.0\printPartOfASCIITable.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\bin\Debug\net7.0\printPartOfASCIITable.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\bin\Debug\net7.0\printPartOfASCIITable.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\bin\Debug\net7.0\printPartOfASCIITable.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\bin\Debug\net7.0\printPartOfASCIITable.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\refint\printPartOfASCIITable.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\printPartOfASCIITable.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\printPartOfASCIITable\obj\Debug\net7.0\ref\printPartOfASCIITable.dll

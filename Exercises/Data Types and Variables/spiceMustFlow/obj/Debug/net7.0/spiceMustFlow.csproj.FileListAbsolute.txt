@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\bin\Debug\net7.0\spiceMustFlow.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\bin\Debug\net7.0\spiceMustFlow.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\bin\Debug\net7.0\spiceMustFlow.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\bin\Debug\net7.0\spiceMustFlow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\bin\Debug\net7.0\spiceMustFlow.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\refint\spiceMustFlow.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\spiceMustFlow.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Data Types and Variables\spiceMustFlow\obj\Debug\net7.0\ref\spiceMustFlow.dll
