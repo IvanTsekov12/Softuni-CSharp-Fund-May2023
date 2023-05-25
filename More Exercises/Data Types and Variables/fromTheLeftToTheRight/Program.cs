@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace fromTheLeftToTheRight
+namespace fromLeftToTheRight
 {
     internal class Program
     {

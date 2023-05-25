@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refactoringPrimeChecker", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decryptingMessage", "decryptingMessage\decryptingMessage.csproj", "{C0101B89-BC99-4330-8F8D-2D5670D98BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fromTheLeftToTheRight", "fromTheLeftToTheRight\fromTheLeftToTheRight.csproj", "{7B28E848-3AAF-4EC5-911A-9E69E77A9716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fromLeftToTheRight", "fromTheLeftToTheRight\fromLeftToTheRight.csproj", "{7B28E848-3AAF-4EC5-911A-9E69E77A9716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balancedBrackets", "balancedBrackets\balancedBrackets.csproj", "{FA274CA0-EFAD-4B77-A6A1-B29946747EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "balancedBrackets", "balancedBrackets\balancedBrackets.csproj", "{FA274CA0-EFAD-4B77-A6A1-B29946747EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

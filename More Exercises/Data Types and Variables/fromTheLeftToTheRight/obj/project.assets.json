@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\More Exercises\\Data Types and Variables\\fromTheLeftToTheRight\\fromTheLeftToTheRight.csproj",
-      "projectName": "fromTheLeftToTheRight",
-      "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\More Exercises\\Data Types and Variables\\fromTheLeftToTheRight\\fromTheLeftToTheRight.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\More Exercises\\Data Types and Variables\\fromTheLeftToTheRight\\fromLeftToTheRight.csproj",
+      "projectName": "fromLeftToTheRight",
+      "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\More Exercises\\Data Types and Variables\\fromTheLeftToTheRight\\fromLeftToTheRight.csproj",
       "packagesPath": "C:\\Users\\ivant\\.nuget\\packages\\",
       "outputPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\More Exercises\\Data Types and Variables\\fromTheLeftToTheRight\\obj\\",
       "projectStyle": "PackageReference",
