@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\bin\Debug\net7.0\roundingNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\bin\Debug\net7.0\roundingNumbers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\bin\Debug\net7.0\roundingNumbers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\bin\Debug\net7.0\roundingNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\bin\Debug\net7.0\roundingNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\refint\roundingNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\roundingNumbers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\roundingNumbers\obj\Debug\net7.0\ref\roundingNumbers.dll

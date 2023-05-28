@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\bin\Debug\net7.0\train.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\bin\Debug\net7.0\train.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\bin\Debug\net7.0\train.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\bin\Debug\net7.0\train.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\bin\Debug\net7.0\train.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\refint\train.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\train.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\train\obj\Debug\net7.0\ref\train.dll

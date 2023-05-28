@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\bin\Debug\net7.0\sumEvenNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\bin\Debug\net7.0\sumEvenNumbers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\bin\Debug\net7.0\sumEvenNumbers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\bin\Debug\net7.0\sumEvenNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\bin\Debug\net7.0\sumEvenNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\refint\sumEvenNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\sumEvenNumbers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\sumEvenNumbers\obj\Debug\net7.0\ref\sumEvenNumbers.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\bin\Debug\net7.0\equalArrays.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\bin\Debug\net7.0\equalArrays.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\bin\Debug\net7.0\equalArrays.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\bin\Debug\net7.0\equalArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\bin\Debug\net7.0\equalArrays.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\refint\equalArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\equalArrays.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\equalArrays\obj\Debug\net7.0\ref\equalArrays.dll

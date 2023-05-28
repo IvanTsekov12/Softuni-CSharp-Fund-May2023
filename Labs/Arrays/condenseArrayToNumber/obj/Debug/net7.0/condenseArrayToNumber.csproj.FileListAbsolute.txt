@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\bin\Debug\net7.0\condenseArrayToNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\bin\Debug\net7.0\condenseArrayToNumber.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\bin\Debug\net7.0\condenseArrayToNumber.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\bin\Debug\net7.0\condenseArrayToNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\bin\Debug\net7.0\condenseArrayToNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\refint\condenseArrayToNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\condenseArrayToNumber.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\condenseArrayToNumber\obj\Debug\net7.0\ref\condenseArrayToNumber.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\bin\Debug\net7.0\reverseArrayOfStrings.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\bin\Debug\net7.0\reverseArrayOfStrings.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\bin\Debug\net7.0\reverseArrayOfStrings.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\bin\Debug\net7.0\reverseArrayOfStrings.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\bin\Debug\net7.0\reverseArrayOfStrings.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\refint\reverseArrayOfStrings.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\reverseArrayOfStrings.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\reverseArrayOfStrings\obj\Debug\net7.0\ref\reverseArrayOfStrings.dll

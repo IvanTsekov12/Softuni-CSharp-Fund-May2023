@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\bin\Debug\net7.0\printNumbersInReverseOrder.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\bin\Debug\net7.0\printNumbersInReverseOrder.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\bin\Debug\net7.0\printNumbersInReverseOrder.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\bin\Debug\net7.0\printNumbersInReverseOrder.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\bin\Debug\net7.0\printNumbersInReverseOrder.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\refint\printNumbersInReverseOrder.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\printNumbersInReverseOrder.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\printNumbersInReverseOrder\obj\Debug\net7.0\ref\printNumbersInReverseOrder.dll

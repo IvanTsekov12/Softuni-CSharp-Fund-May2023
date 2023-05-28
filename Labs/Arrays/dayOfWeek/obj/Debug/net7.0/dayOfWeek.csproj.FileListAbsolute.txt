@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\bin\Debug\net7.0\dayOfWeek.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\bin\Debug\net7.0\dayOfWeek.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\bin\Debug\net7.0\dayOfWeek.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\bin\Debug\net7.0\dayOfWeek.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\bin\Debug\net7.0\dayOfWeek.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\refint\dayOfWeek.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\dayOfWeek.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\dayOfWeek\obj\Debug\net7.0\ref\dayOfWeek.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\bin\Debug\net7.0\evenAndOddSubtraction.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\bin\Debug\net7.0\evenAndOddSubtraction.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\bin\Debug\net7.0\evenAndOddSubtraction.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\bin\Debug\net7.0\evenAndOddSubtraction.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\bin\Debug\net7.0\evenAndOddSubtraction.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\refint\evenAndOddSubtraction.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\evenAndOddSubtraction.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Arrays\evenAndOddSubtraction\obj\Debug\net7.0\ref\evenAndOddSubtraction.dll
