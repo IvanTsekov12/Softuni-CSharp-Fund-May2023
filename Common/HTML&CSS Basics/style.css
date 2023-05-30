@@ -1,0 +1,10 @@
+body a {
+    color: royalblue;
+    text-decoration: none;
+    font-size: 30pt;
+}
+body a:hover{
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+}
