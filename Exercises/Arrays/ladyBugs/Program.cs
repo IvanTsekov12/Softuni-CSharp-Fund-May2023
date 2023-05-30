@@ -29,13 +29,18 @@ namespace ladyBugs
                 string direction = arguments[1];
                 int flyLength = int.Parse(arguments[2]);
 
+                if (bugIndex < 0 || bugIndex > field.Length - 1 || field[bugIndex] == 0)
+                {
+                    continue;
+                }
+
                 field[bugIndex] = 0;
 
                 if (direction == "right")
                 {
                     int landIndex = bugIndex + flyLength;
 
-                    if (landIndex > field.Length - 1 || landIndex < 0)
+                    if (landIndex > field.Length - 1)
                     {
                         continue;
                     }
@@ -45,14 +50,14 @@ namespace ladyBugs
                         while (field[landIndex] == 1)
                         {
                             landIndex += flyLength;
-                            if (landIndex > field.Length - 1 || landIndex < 0)
+                            if (landIndex > field.Length - 1)
                             {
                                 break;
                             }
                         }
                     }
 
-                    if (landIndex <= field.Length - 1 && landIndex >= 0)
+                    if (landIndex <= field.Length - 1)
                     {
                         field[landIndex] = 1;
                     }
@@ -61,7 +66,7 @@ namespace ladyBugs
                 {
                     int landIndex = bugIndex - flyLength;
 
-                    if (landIndex > field.Length - 1 || landIndex < 0)
+                    if (landIndex < 0)
                     {
                         continue;
                     }
@@ -71,14 +76,14 @@ namespace ladyBugs
                         while (field[landIndex] == 1)
                         {
                             landIndex -= flyLength;
-                            if (landIndex > field.Length - 1 || landIndex < 0)
+                            if (landIndex < 0)
                             {
                                 break;
                             }
                         }
                     }
 
-                    if (landIndex <= field.Length - 1 && landIndex >= 0)
+                    if (landIndex >= 0)
                     {
                         field[landIndex] = 1;
                     }
