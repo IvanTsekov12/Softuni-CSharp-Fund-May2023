@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\bin\Debug\net7.0\equalSum.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\bin\Debug\net7.0\equalSum.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\bin\Debug\net7.0\equalSum.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\bin\Debug\net7.0\equalSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\bin\Debug\net7.0\equalSum.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\refint\equalSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\equalSum.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\equalSum\obj\Debug\net7.0\ref\equalSum.dll

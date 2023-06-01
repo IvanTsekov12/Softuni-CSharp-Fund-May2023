@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\bin\Debug\net7.0\zigZagArrays.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\bin\Debug\net7.0\zigZagArrays.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\bin\Debug\net7.0\zigZagArrays.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\bin\Debug\net7.0\zigZagArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\bin\Debug\net7.0\zigZagArrays.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\refint\zigZagArrays.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\zigZagArrays.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\zigZagArrays\obj\Debug\net7.0\ref\zigZagArrays.dll

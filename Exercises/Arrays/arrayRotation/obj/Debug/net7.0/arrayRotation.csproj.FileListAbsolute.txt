@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\bin\Debug\net7.0\arrayRotation.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\bin\Debug\net7.0\arrayRotation.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\bin\Debug\net7.0\arrayRotation.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\bin\Debug\net7.0\arrayRotation.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\bin\Debug\net7.0\arrayRotation.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\refint\arrayRotation.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\arrayRotation.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\arrayRotation\obj\Debug\net7.0\ref\arrayRotation.dll

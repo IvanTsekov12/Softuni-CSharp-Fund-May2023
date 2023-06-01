@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\bin\Debug\net7.0\repeatString.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\bin\Debug\net7.0\repeatString.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\bin\Debug\net7.0\repeatString.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\bin\Debug\net7.0\repeatString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\bin\Debug\net7.0\repeatString.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\refint\repeatString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\repeatString.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\repeatString\obj\Debug\net7.0\ref\repeatString.dll

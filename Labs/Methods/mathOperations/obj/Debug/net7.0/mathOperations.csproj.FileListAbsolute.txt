@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\bin\Debug\net7.0\mathOperations.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\bin\Debug\net7.0\mathOperations.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\bin\Debug\net7.0\mathOperations.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\bin\Debug\net7.0\mathOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\bin\Debug\net7.0\mathOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\refint\mathOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\mathOperations.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathOperations\obj\Debug\net7.0\ref\mathOperations.dll

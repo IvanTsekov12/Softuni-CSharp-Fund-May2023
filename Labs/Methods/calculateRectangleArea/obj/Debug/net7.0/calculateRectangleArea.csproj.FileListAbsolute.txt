@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\bin\Debug\net7.0\calculateRectangleArea.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\bin\Debug\net7.0\calculateRectangleArea.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\bin\Debug\net7.0\calculateRectangleArea.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\bin\Debug\net7.0\calculateRectangleArea.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\bin\Debug\net7.0\calculateRectangleArea.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\refint\calculateRectangleArea.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\calculateRectangleArea.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\calculateRectangleArea\obj\Debug\net7.0\ref\calculateRectangleArea.dll

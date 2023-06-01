@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\bin\Debug\net7.0\printingTriangle.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\bin\Debug\net7.0\printingTriangle.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\bin\Debug\net7.0\printingTriangle.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\bin\Debug\net7.0\printingTriangle.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\bin\Debug\net7.0\printingTriangle.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\refint\printingTriangle.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\printingTriangle.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\printingTriangle\obj\Debug\net7.0\ref\printingTriangle.dll

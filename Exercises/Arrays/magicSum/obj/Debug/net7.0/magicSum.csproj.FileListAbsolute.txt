@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\bin\Debug\net7.0\magicSum.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\bin\Debug\net7.0\magicSum.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\bin\Debug\net7.0\magicSum.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\bin\Debug\net7.0\magicSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\bin\Debug\net7.0\magicSum.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\refint\magicSum.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\magicSum.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\magicSum\obj\Debug\net7.0\ref\magicSum.dll

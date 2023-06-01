@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\bin\Debug\net7.0\mathPower.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\bin\Debug\net7.0\mathPower.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\bin\Debug\net7.0\mathPower.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\bin\Debug\net7.0\mathPower.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\bin\Debug\net7.0\mathPower.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\refint\mathPower.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\mathPower.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\mathPower\obj\Debug\net7.0\ref\mathPower.dll

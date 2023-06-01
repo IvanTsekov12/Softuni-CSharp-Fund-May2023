@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "calculateRectangleArea/1.0.0": {
+        "runtime": {
+          "calculateRectangleArea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculateRectangleArea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

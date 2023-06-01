@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\bin\Debug\net7.0\topIntegers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\bin\Debug\net7.0\topIntegers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\bin\Debug\net7.0\topIntegers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\bin\Debug\net7.0\topIntegers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\bin\Debug\net7.0\topIntegers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\refint\topIntegers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\topIntegers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\topIntegers\obj\Debug\net7.0\ref\topIntegers.dll

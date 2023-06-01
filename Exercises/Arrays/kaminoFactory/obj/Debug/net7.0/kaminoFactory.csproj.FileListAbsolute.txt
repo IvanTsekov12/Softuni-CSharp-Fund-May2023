@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\bin\Debug\net7.0\kaminoFactory.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\bin\Debug\net7.0\kaminoFactory.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\bin\Debug\net7.0\kaminoFactory.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\bin\Debug\net7.0\kaminoFactory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\bin\Debug\net7.0\kaminoFactory.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\refint\kaminoFactory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\kaminoFactory.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Arrays\kaminoFactory\obj\Debug\net7.0\ref\kaminoFactory.dll

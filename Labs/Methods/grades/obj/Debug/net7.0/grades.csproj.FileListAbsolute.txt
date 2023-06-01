@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\bin\Debug\net7.0\grades.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\bin\Debug\net7.0\grades.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\bin\Debug\net7.0\grades.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\bin\Debug\net7.0\grades.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\bin\Debug\net7.0\grades.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\refint\grades.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\grades.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Methods\grades\obj\Debug\net7.0\ref\grades.dll
