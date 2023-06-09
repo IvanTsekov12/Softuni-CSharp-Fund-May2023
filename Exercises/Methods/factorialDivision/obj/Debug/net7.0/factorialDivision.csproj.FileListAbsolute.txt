@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\bin\Debug\net7.0\factorialDivision.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\bin\Debug\net7.0\factorialDivision.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\bin\Debug\net7.0\factorialDivision.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\bin\Debug\net7.0\factorialDivision.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\bin\Debug\net7.0\factorialDivision.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\refint\factorialDivision.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\factorialDivision.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\factorialDivision\obj\Debug\net7.0\ref\factorialDivision.dll

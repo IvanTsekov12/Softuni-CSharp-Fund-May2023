@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\bin\Debug\net7.0\listOfProducts.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\bin\Debug\net7.0\listOfProducts.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\bin\Debug\net7.0\listOfProducts.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\bin\Debug\net7.0\listOfProducts.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\bin\Debug\net7.0\listOfProducts.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\refint\listOfProducts.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\listOfProducts.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listOfProducts\obj\Debug\net7.0\ref\listOfProducts.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\bin\Debug\net7.0\nXNMatrix.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\bin\Debug\net7.0\nXNMatrix.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\bin\Debug\net7.0\nXNMatrix.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\bin\Debug\net7.0\nXNMatrix.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\bin\Debug\net7.0\nXNMatrix.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\refint\nXNMatrix.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\nXNMatrix.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\nXNMatrix\obj\Debug\net7.0\ref\nXNMatrix.dll

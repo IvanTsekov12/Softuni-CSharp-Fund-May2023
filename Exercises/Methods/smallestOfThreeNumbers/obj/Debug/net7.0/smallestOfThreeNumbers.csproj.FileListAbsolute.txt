@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\bin\Debug\net7.0\smallestOfThreeNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\bin\Debug\net7.0\smallestOfThreeNumbers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\bin\Debug\net7.0\smallestOfThreeNumbers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\bin\Debug\net7.0\smallestOfThreeNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\bin\Debug\net7.0\smallestOfThreeNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\refint\smallestOfThreeNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\smallestOfThreeNumbers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\smallestOfThreeNumbers\obj\Debug\net7.0\ref\smallestOfThreeNumbers.dll

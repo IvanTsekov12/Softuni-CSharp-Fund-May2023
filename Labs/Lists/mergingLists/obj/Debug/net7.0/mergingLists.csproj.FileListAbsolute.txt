@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\bin\Debug\net7.0\mergingLists.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\bin\Debug\net7.0\mergingLists.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\bin\Debug\net7.0\mergingLists.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\bin\Debug\net7.0\mergingLists.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\bin\Debug\net7.0\mergingLists.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\refint\mergingLists.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\mergingLists.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\mergingLists\obj\Debug\net7.0\ref\mergingLists.dll

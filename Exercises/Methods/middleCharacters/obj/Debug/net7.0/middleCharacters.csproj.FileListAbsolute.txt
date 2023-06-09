@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\bin\Debug\net7.0\middleCharacters.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\bin\Debug\net7.0\middleCharacters.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\bin\Debug\net7.0\middleCharacters.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\bin\Debug\net7.0\middleCharacters.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\bin\Debug\net7.0\middleCharacters.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\refint\middleCharacters.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\middleCharacters.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\middleCharacters\obj\Debug\net7.0\ref\middleCharacters.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\bin\Debug\net7.0\listManipulationBasics.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\bin\Debug\net7.0\listManipulationBasics.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\bin\Debug\net7.0\listManipulationBasics.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\bin\Debug\net7.0\listManipulationBasics.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\bin\Debug\net7.0\listManipulationBasics.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\refint\listManipulationBasics.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\listManipulationBasics.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationBasics\obj\Debug\net7.0\ref\listManipulationBasics.dll

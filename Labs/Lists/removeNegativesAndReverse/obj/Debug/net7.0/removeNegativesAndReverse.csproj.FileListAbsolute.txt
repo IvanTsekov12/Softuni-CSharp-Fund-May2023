@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\bin\Debug\net7.0\removeNegativesAndReverse.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\bin\Debug\net7.0\removeNegativesAndReverse.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\bin\Debug\net7.0\removeNegativesAndReverse.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\bin\Debug\net7.0\removeNegativesAndReverse.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\bin\Debug\net7.0\removeNegativesAndReverse.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\refint\removeNegativesAndReverse.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\removeNegativesAndReverse.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\removeNegativesAndReverse\obj\Debug\net7.0\ref\removeNegativesAndReverse.dll

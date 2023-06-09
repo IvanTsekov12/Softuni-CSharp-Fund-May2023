@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\bin\Debug\net7.0\listManipulationAdvanced.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\bin\Debug\net7.0\listManipulationAdvanced.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\bin\Debug\net7.0\listManipulationAdvanced.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\bin\Debug\net7.0\listManipulationAdvanced.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\bin\Debug\net7.0\listManipulationAdvanced.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\refint\listManipulationAdvanced.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\listManipulationAdvanced.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\listManipulationAdvanced\obj\Debug\net7.0\ref\listManipulationAdvanced.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\bin\Debug\net7.0\sumAdjacentEqualNumbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\bin\Debug\net7.0\sumAdjacentEqualNumbers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\bin\Debug\net7.0\sumAdjacentEqualNumbers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\bin\Debug\net7.0\sumAdjacentEqualNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\bin\Debug\net7.0\sumAdjacentEqualNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\refint\sumAdjacentEqualNumbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\sumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\sumAdjacentEqualNumbers\obj\Debug\net7.0\ref\sumAdjacentEqualNumbers.dll

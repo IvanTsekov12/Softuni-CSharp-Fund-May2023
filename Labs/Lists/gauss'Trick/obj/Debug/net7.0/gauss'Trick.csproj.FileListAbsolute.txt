@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\bin\Debug\net7.0\gauss'Trick.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\bin\Debug\net7.0\gauss'Trick.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\bin\Debug\net7.0\gauss'Trick.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\bin\Debug\net7.0\gauss'Trick.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\bin\Debug\net7.0\gauss'Trick.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\refint\gauss'Trick.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\gauss'Trick.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Lists\gauss'Trick\obj\Debug\net7.0\ref\gauss'Trick.dll

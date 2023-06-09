@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\bin\Debug\net7.0\vowelsCount.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\bin\Debug\net7.0\vowelsCount.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\bin\Debug\net7.0\vowelsCount.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\bin\Debug\net7.0\vowelsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\bin\Debug\net7.0\vowelsCount.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\refint\vowelsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\vowelsCount.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\vowelsCount\obj\Debug\net7.0\ref\vowelsCount.dll

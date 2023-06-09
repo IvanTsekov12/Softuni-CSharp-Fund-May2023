@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\bin\Debug\net7.0\arrayManipulator.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\bin\Debug\net7.0\arrayManipulator.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\bin\Debug\net7.0\arrayManipulator.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\bin\Debug\net7.0\arrayManipulator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\bin\Debug\net7.0\arrayManipulator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\refint\arrayManipulator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\arrayManipulator.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\arrayManipulator\obj\Debug\net7.0\ref\arrayManipulator.dll

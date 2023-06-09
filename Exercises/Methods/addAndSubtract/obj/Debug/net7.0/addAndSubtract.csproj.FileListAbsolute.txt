@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\bin\Debug\net7.0\addAndSubtract.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\bin\Debug\net7.0\addAndSubtract.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\bin\Debug\net7.0\addAndSubtract.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\bin\Debug\net7.0\addAndSubtract.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\bin\Debug\net7.0\addAndSubtract.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\refint\addAndSubtract.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\addAndSubtract.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Methods\addAndSubtract\obj\Debug\net7.0\ref\addAndSubtract.dll
