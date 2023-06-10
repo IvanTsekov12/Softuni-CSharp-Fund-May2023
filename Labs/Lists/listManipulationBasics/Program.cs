@@ -6,12 +6,6 @@ namespace listManipulationBasics
 {
     internal class Program
     {
-        /*
-         Add {number}: add a number to the end of the list.
-         Remove {number}: remove a number from the list.
-         RemoveAt {index}: remove a number at a given index.
-         Insert {number} {index}: insert a number at a given index.
-         */
 
         static void Main(string[] args)
         {

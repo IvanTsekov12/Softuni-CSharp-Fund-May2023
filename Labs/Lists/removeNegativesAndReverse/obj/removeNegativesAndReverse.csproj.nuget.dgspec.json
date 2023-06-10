@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj": {}
+    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj": {
+    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
+        "projectUniqueName": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
         "projectName": "removeNegativesAndReverse",
-        "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
-        "packagesPath": "C:\\Users\\ivant\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\obj\\",
+        "projectPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
+        "packagesPath": "C:\\Users\\Галя Цекова\\.nuget\\packages\\",
+        "outputPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ivant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Галя Цекова\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

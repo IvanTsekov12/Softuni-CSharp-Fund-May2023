@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ivant\\.nuget\\packages\\": {}
+    "C:\\Users\\Галя Цекова\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
+      "projectUniqueName": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
       "projectName": "mergingLists",
-      "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
-      "packagesPath": "C:\\Users\\ivant\\.nuget\\packages\\",
-      "outputPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\mergingLists\\obj\\",
+      "projectPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
+      "packagesPath": "C:\\Users\\Галя Цекова\\.nuget\\packages\\",
+      "outputPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\mergingLists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ivant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Галя Цекова\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

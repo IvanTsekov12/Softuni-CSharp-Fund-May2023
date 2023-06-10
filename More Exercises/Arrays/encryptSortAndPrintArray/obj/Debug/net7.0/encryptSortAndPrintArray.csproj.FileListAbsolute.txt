@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\bin\Debug\net7.0\encryptSortAndPrintArray.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\bin\Debug\net7.0\encryptSortAndPrintArray.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\bin\Debug\net7.0\encryptSortAndPrintArray.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\bin\Debug\net7.0\encryptSortAndPrintArray.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\bin\Debug\net7.0\encryptSortAndPrintArray.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\refint\encryptSortAndPrintArray.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\encryptSortAndPrintArray.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\encryptSortAndPrintArray\obj\Debug\net7.0\ref\encryptSortAndPrintArray.dll

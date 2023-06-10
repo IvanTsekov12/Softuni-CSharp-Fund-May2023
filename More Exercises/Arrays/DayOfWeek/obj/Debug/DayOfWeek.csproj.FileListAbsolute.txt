@@ -1,0 +1,8 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\obj\Debug\DayOfWeek.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\obj\Debug\DayOfWeek.csproj.SuggestedBindingRedirects.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\More Exercises\Arrays\DayOfWeek\obj\Debug\DayOfWeek.pdb
