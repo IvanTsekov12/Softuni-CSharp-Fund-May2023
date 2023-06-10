@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\bin\Debug\net7.0\bombNumbers.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\bin\Debug\net7.0\bombNumbers.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\bin\Debug\net7.0\bombNumbers.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\bin\Debug\net7.0\bombNumbers.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\bin\Debug\net7.0\bombNumbers.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\refint\bombNumbers.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\bombNumbers.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\bombNumbers\obj\Debug\net7.0\ref\bombNumbers.dll

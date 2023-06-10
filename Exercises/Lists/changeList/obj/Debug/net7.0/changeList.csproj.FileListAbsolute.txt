@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\bin\Debug\net7.0\changeList.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\bin\Debug\net7.0\changeList.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\bin\Debug\net7.0\changeList.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\bin\Debug\net7.0\changeList.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\bin\Debug\net7.0\changeList.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\refint\changeList.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\changeList.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\changeList\obj\Debug\net7.0\ref\changeList.dll

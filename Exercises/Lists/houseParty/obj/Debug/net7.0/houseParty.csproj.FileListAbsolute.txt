@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\bin\Debug\net7.0\houseParty.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\bin\Debug\net7.0\houseParty.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\bin\Debug\net7.0\houseParty.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\bin\Debug\net7.0\houseParty.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\bin\Debug\net7.0\houseParty.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\refint\houseParty.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\houseParty.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\houseParty\obj\Debug\net7.0\ref\houseParty.dll

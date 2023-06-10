@@ -13,3 +13,18 @@ C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\Train\obj
 C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.pdb
 C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.genruntimeconfig.cache
 C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\Train\obj\Debug\net7.0\ref\Train.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\bin\Debug\net7.0\Train.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\bin\Debug\net7.0\Train.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\bin\Debug\net7.0\Train.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\bin\Debug\net7.0\Train.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\bin\Debug\net7.0\Train.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\refint\Train.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\Train.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Lists\Train\obj\Debug\net7.0\ref\Train.dll
