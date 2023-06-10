@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\bin\Debug\net7.0\softUniCoursePlanning.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\bin\Debug\net7.0\softUniCoursePlanning.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\bin\Debug\net7.0\softUniCoursePlanning.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\bin\Debug\net7.0\softUniCoursePlanning.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\bin\Debug\net7.0\softUniCoursePlanning.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\refint\softUniCoursePlanning.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\softUniCoursePlanning.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\softUniCoursePlanning\obj\Debug\net7.0\ref\softUniCoursePlanning.dll

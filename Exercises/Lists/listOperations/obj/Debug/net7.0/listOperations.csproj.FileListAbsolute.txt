@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\bin\Debug\net7.0\listOperations.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\bin\Debug\net7.0\listOperations.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\bin\Debug\net7.0\listOperations.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\bin\Debug\net7.0\listOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\bin\Debug\net7.0\listOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\refint\listOperations.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\listOperations.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Lists\listOperations\obj\Debug\net7.0\ref\listOperations.dll
