@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0zqzhtflyl3T23EXJ88L903ZzyP3DMQx2HCb8p/lSZxv5AzEy/QYd1deIfAQPS/m3Og0lVtLpvo0r8XH2k/+Q==",
+  "dgSpecHash": "5S+Vs/YKxEKpeRsiVKgnYUFwmRWjaBPTPQWNTp/eTXU58eB00VDrkyIoKwTki1EaJA95jtqGKiOhtTHm86gMNA==",
   "success": true,
-  "projectFilePath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
+  "projectFilePath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\removeNegativesAndReverse\\removeNegativesAndReverse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
