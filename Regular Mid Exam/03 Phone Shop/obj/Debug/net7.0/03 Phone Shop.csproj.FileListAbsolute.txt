@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\bin\Debug\net7.0\03 Phone Shop.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\bin\Debug\net7.0\03 Phone Shop.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\bin\Debug\net7.0\03 Phone Shop.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\bin\Debug\net7.0\03 Phone Shop.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\bin\Debug\net7.0\03 Phone Shop.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\refint\03 Phone Shop.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\03 Phone Shop.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\03 Phone Shop\obj\Debug\net7.0\ref\03 Phone Shop.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\bin\Debug\net7.0\wordFilter.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\bin\Debug\net7.0\wordFilter.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\bin\Debug\net7.0\wordFilter.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\bin\Debug\net7.0\wordFilter.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\bin\Debug\net7.0\wordFilter.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\refint\wordFilter.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\wordFilter.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordFilter\obj\Debug\net7.0\ref\wordFilter.dll

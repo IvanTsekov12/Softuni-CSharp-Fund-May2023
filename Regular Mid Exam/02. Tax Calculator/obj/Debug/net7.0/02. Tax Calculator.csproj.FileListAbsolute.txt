@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\bin\Debug\net7.0\02. Tax Calculator.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\bin\Debug\net7.0\02. Tax Calculator.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\bin\Debug\net7.0\02. Tax Calculator.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\bin\Debug\net7.0\02. Tax Calculator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\bin\Debug\net7.0\02. Tax Calculator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\refint\02. Tax Calculator.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\02. Tax Calculator.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\02. Tax Calculator\obj\Debug\net7.0\ref\02. Tax Calculator.dll

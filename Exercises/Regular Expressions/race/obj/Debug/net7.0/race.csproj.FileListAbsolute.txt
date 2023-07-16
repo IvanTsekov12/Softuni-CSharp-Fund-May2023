@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\bin\Debug\net7.0\race.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\bin\Debug\net7.0\race.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\bin\Debug\net7.0\race.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\bin\Debug\net7.0\race.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\bin\Debug\net7.0\race.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\refint\race.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\race.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\race\obj\Debug\net7.0\ref\race.dll

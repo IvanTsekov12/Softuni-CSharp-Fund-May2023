@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\bin\Debug\net7.0\multiplyBigNumber.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\bin\Debug\net7.0\multiplyBigNumber.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\bin\Debug\net7.0\multiplyBigNumber.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\bin\Debug\net7.0\multiplyBigNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\bin\Debug\net7.0\multiplyBigNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\refint\multiplyBigNumber.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\multiplyBigNumber.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\multiplyBigNumber\obj\Debug\net7.0\ref\multiplyBigNumber.dll

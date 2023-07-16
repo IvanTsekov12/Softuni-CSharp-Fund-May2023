@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\bin\Debug\net7.0\manOWar.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\bin\Debug\net7.0\manOWar.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\bin\Debug\net7.0\manOWar.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\bin\Debug\net7.0\manOWar.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\bin\Debug\net7.0\manOWar.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\refint\manOWar.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\manOWar.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\manOWar\obj\Debug\net7.0\ref\manOWar.dll

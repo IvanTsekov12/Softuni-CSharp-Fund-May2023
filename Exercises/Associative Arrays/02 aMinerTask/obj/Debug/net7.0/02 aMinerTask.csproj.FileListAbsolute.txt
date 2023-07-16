@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\bin\Debug\net7.0\02 aMinerTask.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\bin\Debug\net7.0\02 aMinerTask.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\bin\Debug\net7.0\02 aMinerTask.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\bin\Debug\net7.0\02 aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\bin\Debug\net7.0\02 aMinerTask.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\refint\02 aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\02 aMinerTask.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\02 aMinerTask\obj\Debug\net7.0\ref\02 aMinerTask.dll

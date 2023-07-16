@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\bin\Debug\net7.0\treasureHunt.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\bin\Debug\net7.0\treasureHunt.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\bin\Debug\net7.0\treasureHunt.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\bin\Debug\net7.0\treasureHunt.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\bin\Debug\net7.0\treasureHunt.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\refint\treasureHunt.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\treasureHunt.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\treasureHunt\obj\Debug\net7.0\ref\treasureHunt.dll

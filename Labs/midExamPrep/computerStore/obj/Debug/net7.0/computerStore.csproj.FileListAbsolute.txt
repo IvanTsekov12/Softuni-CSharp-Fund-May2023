@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\bin\Debug\net7.0\computerStore.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\bin\Debug\net7.0\computerStore.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\bin\Debug\net7.0\computerStore.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\bin\Debug\net7.0\computerStore.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\bin\Debug\net7.0\computerStore.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\refint\computerStore.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\computerStore.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\computerStore\obj\Debug\net7.0\ref\computerStore.dll

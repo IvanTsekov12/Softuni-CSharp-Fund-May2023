@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\bin\Debug\net7.0\blackFlag.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\bin\Debug\net7.0\blackFlag.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\bin\Debug\net7.0\blackFlag.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\bin\Debug\net7.0\blackFlag.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\bin\Debug\net7.0\blackFlag.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\refint\blackFlag.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\blackFlag.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\06. Programming Fundamentals Mid Exam Retake\blackFlag\obj\Debug\net7.0\ref\blackFlag.dll

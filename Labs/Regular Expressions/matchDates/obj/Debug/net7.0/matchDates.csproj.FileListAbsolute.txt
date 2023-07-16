@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\bin\Debug\net7.0\matchDates.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\bin\Debug\net7.0\matchDates.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\bin\Debug\net7.0\matchDates.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\bin\Debug\net7.0\matchDates.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\bin\Debug\net7.0\matchDates.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\refint\matchDates.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\matchDates.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchDates\obj\Debug\net7.0\ref\matchDates.dll

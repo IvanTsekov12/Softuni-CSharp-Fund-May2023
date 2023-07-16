@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\bin\Debug\net7.0\muOnline.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\bin\Debug\net7.0\muOnline.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\bin\Debug\net7.0\muOnline.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\bin\Debug\net7.0\muOnline.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\bin\Debug\net7.0\muOnline.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\refint\muOnline.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\muOnline.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\muOnline\obj\Debug\net7.0\ref\muOnline.dll

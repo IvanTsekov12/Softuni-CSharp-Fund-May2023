@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\bin\Debug\net7.0\oddOccurrences.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\bin\Debug\net7.0\oddOccurrences.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\bin\Debug\net7.0\oddOccurrences.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\bin\Debug\net7.0\oddOccurrences.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\bin\Debug\net7.0\oddOccurrences.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\refint\oddOccurrences.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\oddOccurrences.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\oddOccurrences\obj\Debug\net7.0\ref\oddOccurrences.dll

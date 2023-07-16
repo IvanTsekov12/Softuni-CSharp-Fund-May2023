@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\bin\Debug\net7.0\arrayModifier.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\bin\Debug\net7.0\arrayModifier.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\bin\Debug\net7.0\arrayModifier.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\bin\Debug\net7.0\arrayModifier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\bin\Debug\net7.0\arrayModifier.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\refint\arrayModifier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\arrayModifier.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\arrayModifier\obj\Debug\net7.0\ref\arrayModifier.dll

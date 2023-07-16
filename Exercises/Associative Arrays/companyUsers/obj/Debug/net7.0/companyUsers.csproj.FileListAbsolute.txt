@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\bin\Debug\net7.0\companyUsers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\bin\Debug\net7.0\companyUsers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\bin\Debug\net7.0\companyUsers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\bin\Debug\net7.0\companyUsers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\bin\Debug\net7.0\companyUsers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\refint\companyUsers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\companyUsers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\companyUsers\obj\Debug\net7.0\ref\companyUsers.dll

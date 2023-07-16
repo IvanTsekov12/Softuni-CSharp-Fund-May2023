@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\bin\Debug\net7.0\inventory.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\bin\Debug\net7.0\inventory.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\bin\Debug\net7.0\inventory.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\bin\Debug\net7.0\inventory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\bin\Debug\net7.0\inventory.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\refint\inventory.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\inventory.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\inventory\obj\Debug\net7.0\ref\inventory.dll

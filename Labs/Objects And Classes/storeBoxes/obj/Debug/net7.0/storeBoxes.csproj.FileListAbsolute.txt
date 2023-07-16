@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\bin\Debug\net7.0\storeBoxes.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\bin\Debug\net7.0\storeBoxes.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\bin\Debug\net7.0\storeBoxes.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\bin\Debug\net7.0\storeBoxes.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\bin\Debug\net7.0\storeBoxes.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\refint\storeBoxes.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\storeBoxes.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\storeBoxes\obj\Debug\net7.0\ref\storeBoxes.dll

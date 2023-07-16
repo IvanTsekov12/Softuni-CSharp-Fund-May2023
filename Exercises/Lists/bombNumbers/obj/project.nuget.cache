@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3X5J1210x506k8toyNd8EmvgLtYply/PDEAffjsuIcpU6s16nm4ShcDyNX8l89WOP8kr99adMJInw9ETSrPnZg==",
+  "dgSpecHash": "xsiCSuhEdosi2kd14DroMfrgUO0qq7V4+woymDrg3SfdgtIVENOOn6gwi9tArVtLO4OG8iSXRHrhv8zyafId9A==",
   "success": true,
-  "projectFilePath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\bombNumbers\\bombNumbers.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\bombNumbers\\bombNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\bin\Debug\net7.0\movingTarget.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\bin\Debug\net7.0\movingTarget.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\bin\Debug\net7.0\movingTarget.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\bin\Debug\net7.0\movingTarget.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\bin\Debug\net7.0\movingTarget.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\refint\movingTarget.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\movingTarget.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\movingTarget\obj\Debug\net7.0\ref\movingTarget.dll

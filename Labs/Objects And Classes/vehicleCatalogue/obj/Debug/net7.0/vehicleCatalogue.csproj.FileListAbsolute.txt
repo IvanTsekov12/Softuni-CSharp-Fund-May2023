@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\bin\Debug\net7.0\vehicleCatalogue.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\bin\Debug\net7.0\vehicleCatalogue.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\bin\Debug\net7.0\vehicleCatalogue.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\bin\Debug\net7.0\vehicleCatalogue.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\bin\Debug\net7.0\vehicleCatalogue.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\refint\vehicleCatalogue.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\vehicleCatalogue.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\vehicleCatalogue\obj\Debug\net7.0\ref\vehicleCatalogue.dll

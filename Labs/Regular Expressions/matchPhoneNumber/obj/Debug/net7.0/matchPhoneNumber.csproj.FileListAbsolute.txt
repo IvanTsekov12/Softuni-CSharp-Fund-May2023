@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\bin\Debug\net7.0\matchPhoneNumber.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\bin\Debug\net7.0\matchPhoneNumber.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\bin\Debug\net7.0\matchPhoneNumber.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\bin\Debug\net7.0\matchPhoneNumber.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\bin\Debug\net7.0\matchPhoneNumber.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\refint\matchPhoneNumber.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\matchPhoneNumber.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchPhoneNumber\obj\Debug\net7.0\ref\matchPhoneNumber.dll

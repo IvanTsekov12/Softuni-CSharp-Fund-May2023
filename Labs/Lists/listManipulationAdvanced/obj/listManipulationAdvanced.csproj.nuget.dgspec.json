@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj": {}
+    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj": {}
   },
   "projects": {
-    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj": {
+    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj",
+        "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj",
         "projectName": "listManipulationAdvanced",
-        "projectPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj",
-        "packagesPath": "C:\\Users\\Галя Цекова\\.nuget\\packages\\",
-        "outputPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationAdvanced\\obj\\",
+        "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationAdvanced\\listManipulationAdvanced.csproj",
+        "packagesPath": "C:\\Users\\ivant\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationAdvanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Галя Цекова\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ivant\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

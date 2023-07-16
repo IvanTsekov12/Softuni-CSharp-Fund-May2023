@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzJhVWOTCn1mlIibHZcAtxOZtdnUz+m3A4dFSzdzfwo3hWzNGAGVVncjb6F45mRUd5T4j817E92lTM7kM19Www==",
+  "dgSpecHash": "PCDHFByzn1BljuvHdWZ5vtmRvcsiDw9TVKotbJP5zFbhHXtHTCe1j7uhXZGLGy5x+tiJc1KT4pTiG9adlIwCbA==",
   "success": true,
-  "projectFilePath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\listManipulationBasics\\listManipulationBasics.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\listManipulationBasics\\listManipulationBasics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

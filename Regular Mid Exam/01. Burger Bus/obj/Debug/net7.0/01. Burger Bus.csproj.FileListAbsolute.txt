@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\bin\Debug\net7.0\01. Burger Bus.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\bin\Debug\net7.0\01. Burger Bus.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\bin\Debug\net7.0\01. Burger Bus.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\bin\Debug\net7.0\01. Burger Bus.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\bin\Debug\net7.0\01. Burger Bus.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\refint\01. Burger Bus.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\01. Burger Bus.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Regular Mid Exam\01. Burger Bus\obj\Debug\net7.0\ref\01. Burger Bus.dll

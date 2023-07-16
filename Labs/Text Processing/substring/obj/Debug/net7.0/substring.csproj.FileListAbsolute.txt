@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\bin\Debug\net7.0\substring.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\bin\Debug\net7.0\substring.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\bin\Debug\net7.0\substring.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\bin\Debug\net7.0\substring.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\bin\Debug\net7.0\substring.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\refint\substring.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\substring.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Text Processing\substring\obj\Debug\net7.0\ref\substring.dll

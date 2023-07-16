@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\bin\Debug\net7.0\matchFullName.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\bin\Debug\net7.0\matchFullName.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\bin\Debug\net7.0\matchFullName.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\bin\Debug\net7.0\matchFullName.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\bin\Debug\net7.0\matchFullName.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\refint\matchFullName.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\matchFullName.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Labs\Regular Expressions\matchFullName\obj\Debug\net7.0\ref\matchFullName.dll

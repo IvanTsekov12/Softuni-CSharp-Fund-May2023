@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\bin\Debug\net7.0\guineaPig.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\bin\Debug\net7.0\guineaPig.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\bin\Debug\net7.0\guineaPig.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\bin\Debug\net7.0\guineaPig.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\bin\Debug\net7.0\guineaPig.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\refint\guineaPig.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\guineaPig.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\guineaPig\obj\Debug\net7.0\ref\guineaPig.dll

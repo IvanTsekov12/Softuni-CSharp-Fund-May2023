@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\bin\Debug\net7.0\caesarCipher.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\bin\Debug\net7.0\caesarCipher.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\bin\Debug\net7.0\caesarCipher.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\bin\Debug\net7.0\caesarCipher.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\bin\Debug\net7.0\caesarCipher.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\refint\caesarCipher.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\caesarCipher.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\caesarCipher\obj\Debug\net7.0\ref\caesarCipher.dll

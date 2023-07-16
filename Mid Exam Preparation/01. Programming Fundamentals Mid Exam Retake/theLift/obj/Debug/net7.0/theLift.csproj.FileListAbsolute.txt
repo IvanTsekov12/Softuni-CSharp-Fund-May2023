@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\bin\Debug\net7.0\theLift.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\bin\Debug\net7.0\theLift.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\bin\Debug\net7.0\theLift.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\bin\Debug\net7.0\theLift.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\bin\Debug\net7.0\theLift.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\refint\theLift.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\theLift.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\theLift\obj\Debug\net7.0\ref\theLift.dll

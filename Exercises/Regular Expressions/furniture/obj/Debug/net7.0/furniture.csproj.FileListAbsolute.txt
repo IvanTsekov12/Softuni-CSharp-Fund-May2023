@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\bin\Debug\net7.0\furniture.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\bin\Debug\net7.0\furniture.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\bin\Debug\net7.0\furniture.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\bin\Debug\net7.0\furniture.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\bin\Debug\net7.0\furniture.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\refint\furniture.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\furniture.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\furniture\obj\Debug\net7.0\ref\furniture.dll

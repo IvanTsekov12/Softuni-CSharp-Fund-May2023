@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\bin\Debug\net7.0\replaceRepeatingChars.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\bin\Debug\net7.0\replaceRepeatingChars.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\bin\Debug\net7.0\replaceRepeatingChars.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\bin\Debug\net7.0\replaceRepeatingChars.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\bin\Debug\net7.0\replaceRepeatingChars.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\refint\replaceRepeatingChars.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\replaceRepeatingChars.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\replaceRepeatingChars\obj\Debug\net7.0\ref\replaceRepeatingChars.dll

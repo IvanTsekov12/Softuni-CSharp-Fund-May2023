@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\bin\Debug\net7.0\binaryDigitsCount.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\bin\Debug\net7.0\binaryDigitsCount.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\bin\Debug\net7.0\binaryDigitsCount.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\bin\Debug\net7.0\binaryDigitsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\bin\Debug\net7.0\binaryDigitsCount.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\refint\binaryDigitsCount.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\binaryDigitsCount.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Bitwise Operations\binaryDigitsCount\obj\Debug\net7.0\ref\binaryDigitsCount.dll

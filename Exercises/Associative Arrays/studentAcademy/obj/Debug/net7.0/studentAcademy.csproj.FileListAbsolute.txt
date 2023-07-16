@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\bin\Debug\net7.0\studentAcademy.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\bin\Debug\net7.0\studentAcademy.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\bin\Debug\net7.0\studentAcademy.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\bin\Debug\net7.0\studentAcademy.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\bin\Debug\net7.0\studentAcademy.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\refint\studentAcademy.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\studentAcademy.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\studentAcademy\obj\Debug\net7.0\ref\studentAcademy.dll

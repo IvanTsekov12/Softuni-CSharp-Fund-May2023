@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\bin\Debug\net7.0\aMinerTask.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\bin\Debug\net7.0\aMinerTask.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\bin\Debug\net7.0\aMinerTask.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\bin\Debug\net7.0\aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\bin\Debug\net7.0\aMinerTask.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\refint\aMinerTask.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\aMinerTask.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\aMinerTask\obj\Debug\net7.0\ref\aMinerTask.dll

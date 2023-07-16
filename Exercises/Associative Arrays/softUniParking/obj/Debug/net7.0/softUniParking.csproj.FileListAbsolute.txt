@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\bin\Debug\net7.0\softUniParking.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\bin\Debug\net7.0\softUniParking.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\bin\Debug\net7.0\softUniParking.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\bin\Debug\net7.0\softUniParking.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\bin\Debug\net7.0\softUniParking.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\refint\softUniParking.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\softUniParking.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\softUniParking\obj\Debug\net7.0\ref\softUniParking.dll

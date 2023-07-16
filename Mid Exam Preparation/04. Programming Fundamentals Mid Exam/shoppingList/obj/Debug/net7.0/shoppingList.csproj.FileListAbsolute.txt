@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\bin\Debug\net7.0\shoppingList.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\bin\Debug\net7.0\shoppingList.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\bin\Debug\net7.0\shoppingList.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\bin\Debug\net7.0\shoppingList.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\bin\Debug\net7.0\shoppingList.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\refint\shoppingList.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\shoppingList.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\04. Programming Fundamentals Mid Exam\shoppingList\obj\Debug\net7.0\ref\shoppingList.dll

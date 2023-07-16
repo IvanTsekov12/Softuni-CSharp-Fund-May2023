@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\bin\Debug\net7.0\numbers.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\bin\Debug\net7.0\numbers.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\bin\Debug\net7.0\numbers.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\bin\Debug\net7.0\numbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\bin\Debug\net7.0\numbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\refint\numbers.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\numbers.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\numbers\obj\Debug\net7.0\ref\numbers.dll

@@ -10,7 +10,7 @@ namespace listManipulationAdvanced
         {
             List<int> list = Console.ReadLine().Split(' ').Select(int.Parse).ToList(); ;
 
-            List<int> startingList = list;
+            int changesToList = 0;
             int iterations = 0;
             string command = "";
             while ((command = Console.ReadLine()) != "end")
@@ -118,24 +118,28 @@ namespace listManipulationAdvanced
                     case "Add":
                         int numberToAdd = int.Parse(arguments[1]);
                         list.Add(numberToAdd);
+                        changesToList++;
                         break;
                     case "Remove":
                         int numberToRemove = int.Parse(arguments[1]);
                         list.Remove(numberToRemove);
+                        changesToList++;
                         break;
                     case "RemoveAt":
                         int indexToRemove = int.Parse(arguments[1]);
                         list.RemoveAt(indexToRemove);
+                        changesToList++;
                         break;
                     case "Insert":
                         int numberToInsert = int.Parse(arguments[1]);
                         int index = int.Parse(arguments[2]);
                         list.Insert(index, numberToInsert);
+                        changesToList++;
                         break;
                 }
             }
 
-            if (list != startingList)
+            if (changesToList > 0)
             {
                 Console.WriteLine(string.Join(" ", list));
             }

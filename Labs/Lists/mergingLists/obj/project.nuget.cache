@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bacHN2rfwx0LV0JsaiucrjizdPKWvR+Shs7tXLnr1b8JKetQS7xcwH/bDfk9FdXaHPK5R07KAIUpX/edETvzog==",
+  "dgSpecHash": "mgVDG/Aa9DunC4Qze3MtjANmn9FLgT9WkMpXNnCZrsDRVGVsBSITOMHs6Us/8gfr3ZDysANALL8Fbd3zcVujlQ==",
   "success": true,
-  "projectFilePath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\mergingLists\\mergingLists.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

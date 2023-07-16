@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\bin\Debug\net7.0\bonusScoringSystem.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\bin\Debug\net7.0\bonusScoringSystem.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\bin\Debug\net7.0\bonusScoringSystem.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\bin\Debug\net7.0\bonusScoringSystem.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\bin\Debug\net7.0\bonusScoringSystem.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\refint\bonusScoringSystem.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\bonusScoringSystem.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\midExamPrep\bonusScoringSystem\obj\Debug\net7.0\ref\bonusScoringSystem.dll

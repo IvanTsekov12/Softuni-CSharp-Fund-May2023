@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\Train\\Train.csproj": {}
+    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\Train\\Train.csproj": {}
   },
   "projects": {
-    "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\Train\\Train.csproj": {
+    "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\Train\\Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\Train\\Train.csproj",
+        "projectUniqueName": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\Train\\Train.csproj",
         "projectName": "Train",
-        "projectPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\Train\\Train.csproj",
-        "packagesPath": "C:\\Users\\Галя Цекова\\.nuget\\packages\\",
-        "outputPath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Exercises\\Lists\\Train\\obj\\",
+        "projectPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\Train\\Train.csproj",
+        "packagesPath": "C:\\Users\\ivant\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Exercises\\Lists\\Train\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Галя Цекова\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ivant\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

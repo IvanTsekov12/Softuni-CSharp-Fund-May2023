@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\bin\Debug\net7.0\starEnigma.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\bin\Debug\net7.0\starEnigma.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\bin\Debug\net7.0\starEnigma.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\bin\Debug\net7.0\starEnigma.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\bin\Debug\net7.0\starEnigma.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\refint\starEnigma.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\starEnigma.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\starEnigma\obj\Debug\net7.0\ref\starEnigma.dll

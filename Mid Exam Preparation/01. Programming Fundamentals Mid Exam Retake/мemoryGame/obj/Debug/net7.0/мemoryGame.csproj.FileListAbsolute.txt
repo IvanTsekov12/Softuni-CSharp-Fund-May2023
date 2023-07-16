@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\bin\Debug\net7.0\мemoryGame.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\bin\Debug\net7.0\мemoryGame.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\bin\Debug\net7.0\мemoryGame.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\bin\Debug\net7.0\мemoryGame.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\bin\Debug\net7.0\мemoryGame.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\refint\мemoryGame.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\мemoryGame.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\01. Programming Fundamentals Mid Exam Retake\мemoryGame\obj\Debug\net7.0\ref\мemoryGame.dll

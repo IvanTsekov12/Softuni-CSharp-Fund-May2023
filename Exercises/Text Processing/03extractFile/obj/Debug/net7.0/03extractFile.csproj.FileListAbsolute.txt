@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\bin\Debug\net7.0\03extractFile.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\bin\Debug\net7.0\03extractFile.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\bin\Debug\net7.0\03extractFile.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\bin\Debug\net7.0\03extractFile.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\bin\Debug\net7.0\03extractFile.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\refint\03extractFile.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\03extractFile.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\03extractFile\obj\Debug\net7.0\ref\03extractFile.dll

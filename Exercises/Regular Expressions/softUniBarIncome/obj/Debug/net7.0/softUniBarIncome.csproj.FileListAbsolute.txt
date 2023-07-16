@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\bin\Debug\net7.0\softUniBarIncome.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\bin\Debug\net7.0\softUniBarIncome.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\bin\Debug\net7.0\softUniBarIncome.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\bin\Debug\net7.0\softUniBarIncome.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\bin\Debug\net7.0\softUniBarIncome.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\refint\softUniBarIncome.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\softUniBarIncome.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\softUniBarIncome\obj\Debug\net7.0\ref\softUniBarIncome.dll

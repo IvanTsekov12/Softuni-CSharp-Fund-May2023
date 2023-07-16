@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\bin\Debug\net7.0\counterStrike.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\bin\Debug\net7.0\counterStrike.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\bin\Debug\net7.0\counterStrike.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\bin\Debug\net7.0\counterStrike.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\bin\Debug\net7.0\counterStrike.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\refint\counterStrike.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\counterStrike.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\counterStrike\obj\Debug\net7.0\ref\counterStrike.dll

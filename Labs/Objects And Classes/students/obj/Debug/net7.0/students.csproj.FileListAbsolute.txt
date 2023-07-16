@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\bin\Debug\net7.0\students.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\bin\Debug\net7.0\students.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\bin\Debug\net7.0\students.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\bin\Debug\net7.0\students.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\bin\Debug\net7.0\students.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\refint\students.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\students.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\students\obj\Debug\net7.0\ref\students.dll

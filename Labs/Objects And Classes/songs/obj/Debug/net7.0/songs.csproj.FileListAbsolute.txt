@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\bin\Debug\net7.0\songs.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\bin\Debug\net7.0\songs.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\bin\Debug\net7.0\songs.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\bin\Debug\net7.0\songs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\bin\Debug\net7.0\songs.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\refint\songs.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\songs.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\Objects And Classes\songs\obj\Debug\net7.0\ref\songs.dll

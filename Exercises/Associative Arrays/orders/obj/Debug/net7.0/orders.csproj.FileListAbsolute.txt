@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\bin\Debug\net7.0\orders.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\bin\Debug\net7.0\orders.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\bin\Debug\net7.0\orders.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\bin\Debug\net7.0\orders.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\bin\Debug\net7.0\orders.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\refint\orders.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\orders.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\orders\obj\Debug\net7.0\ref\orders.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blackFlag", "blackFlag\blackFlag.csproj", "{C8E11717-F4CD-44A5-A551-11342AA0EA10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "treasureHunt", "treasureHunt\treasureHunt.csproj", "{E4EC109C-AA8C-4A8A-8365-F5232833E1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manOWar", "manOWar\manOWar.csproj", "{334EE8B1-A034-493A-B6B6-40C8372355D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E11717-F4CD-44A5-A551-11342AA0EA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E11717-F4CD-44A5-A551-11342AA0EA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E11717-F4CD-44A5-A551-11342AA0EA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E11717-F4CD-44A5-A551-11342AA0EA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EC109C-AA8C-4A8A-8365-F5232833E1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EC109C-AA8C-4A8A-8365-F5232833E1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EC109C-AA8C-4A8A-8365-F5232833E1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EC109C-AA8C-4A8A-8365-F5232833E1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334EE8B1-A034-493A-B6B6-40C8372355D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334EE8B1-A034-493A-B6B6-40C8372355D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334EE8B1-A034-493A-B6B6-40C8372355D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334EE8B1-A034-493A-B6B6-40C8372355D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEEA070-128C-40EB-A4D0-17C408567A86}
+	EndGlobalSection
+EndGlobal

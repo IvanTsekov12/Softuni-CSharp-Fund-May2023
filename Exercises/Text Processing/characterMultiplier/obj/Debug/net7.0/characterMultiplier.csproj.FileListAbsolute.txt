@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\bin\Debug\net7.0\characterMultiplier.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\bin\Debug\net7.0\characterMultiplier.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\bin\Debug\net7.0\characterMultiplier.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\bin\Debug\net7.0\characterMultiplier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\bin\Debug\net7.0\characterMultiplier.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\refint\characterMultiplier.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\characterMultiplier.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Text Processing\characterMultiplier\obj\Debug\net7.0\ref\characterMultiplier.dll

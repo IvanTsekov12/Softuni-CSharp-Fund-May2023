@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\bin\Debug\net7.0\softUniReception.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\bin\Debug\net7.0\softUniReception.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\bin\Debug\net7.0\softUniReception.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\bin\Debug\net7.0\softUniReception.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\bin\Debug\net7.0\softUniReception.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\refint\softUniReception.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\softUniReception.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\02. Programming Fundamentals Mid Exam\softUniReception\obj\Debug\net7.0\ref\softUniReception.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\bin\Debug\net7.0\shootForTheWin.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\bin\Debug\net7.0\shootForTheWin.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\bin\Debug\net7.0\shootForTheWin.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\bin\Debug\net7.0\shootForTheWin.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\bin\Debug\net7.0\shootForTheWin.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\refint\shootForTheWin.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\shootForTheWin.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Mid Exam Preparation\03. Programming Fundamentals Mid Exam Retake\shootForTheWin\obj\Debug\net7.0\ref\shootForTheWin.dll

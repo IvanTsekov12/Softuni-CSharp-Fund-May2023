@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\bin\Debug\net7.0\wordSynonyms.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\bin\Debug\net7.0\wordSynonyms.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\bin\Debug\net7.0\wordSynonyms.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\bin\Debug\net7.0\wordSynonyms.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\bin\Debug\net7.0\wordSynonyms.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\refint\wordSynonyms.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\wordSynonyms.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Common\Associative Arrays\wordSynonyms\obj\Debug\net7.0\ref\wordSynonyms.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\bin\Debug\net7.0\heartDelivery.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\bin\Debug\net7.0\heartDelivery.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\bin\Debug\net7.0\heartDelivery.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\bin\Debug\net7.0\heartDelivery.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\bin\Debug\net7.0\heartDelivery.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\refint\heartDelivery.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\heartDelivery.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Labs\midExamPrep\heartDelivery\obj\Debug\net7.0\ref\heartDelivery.dll

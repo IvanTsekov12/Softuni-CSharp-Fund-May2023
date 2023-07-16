@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGQzY4AvBL8zxC/XpsCFXhtkCXnjYmj1YkfJgzNNRbhZ+gKUWNKWenfXngM5isgfGxaxbn5sViAi0jBK+ZL1Yw==",
+  "dgSpecHash": "vmj0n57W+g6WiZ6Pg/Qx5bLu6/CipBA0yswELOCavbumwVKlIbLjmTOlLwmGrjzwimk91f9kZyeOUyf5ukq5dw==",
   "success": true,
-  "projectFilePath": "C:\\Иван\\Softuni-CSharp-Fund-May2023\\Labs\\Lists\\sumAdjacentEqualNumbers\\sumAdjacentEqualNumbers.csproj",
+  "projectFilePath": "C:\\SoftUni\\Programing Fundamentals with C# май 2023\\Labs\\Lists\\sumAdjacentEqualNumbers\\sumAdjacentEqualNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

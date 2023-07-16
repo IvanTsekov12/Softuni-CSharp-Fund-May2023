@@ -1,0 +1,15 @@
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\bin\Debug\net7.0\netherRealms.exe
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\bin\Debug\net7.0\netherRealms.deps.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\bin\Debug\net7.0\netherRealms.runtimeconfig.json
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\bin\Debug\net7.0\netherRealms.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\bin\Debug\net7.0\netherRealms.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.csproj.AssemblyReference.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.AssemblyInfoInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.AssemblyInfo.cs
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.csproj.CoreCompileInputs.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\refint\netherRealms.dll
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.pdb
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\netherRealms.genruntimeconfig.cache
+C:\Иван\Softuni-CSharp-Fund-May2023\Exercises\Regular Expressions\netherRealms\obj\Debug\net7.0\ref\netherRealms.dll

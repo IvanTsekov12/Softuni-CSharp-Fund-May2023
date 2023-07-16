@@ -1,0 +1,15 @@
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\bin\Debug\net7.0\countCharsInAString.exe
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\bin\Debug\net7.0\countCharsInAString.deps.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\bin\Debug\net7.0\countCharsInAString.runtimeconfig.json
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\bin\Debug\net7.0\countCharsInAString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\bin\Debug\net7.0\countCharsInAString.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.csproj.AssemblyReference.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.AssemblyInfoInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.AssemblyInfo.cs
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\refint\countCharsInAString.dll
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.pdb
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\countCharsInAString.genruntimeconfig.cache
+C:\SoftUni\Programing Fundamentals with C# май 2023\Exercises\Associative Arrays\countCharsInAString\obj\Debug\net7.0\ref\countCharsInAString.dll
